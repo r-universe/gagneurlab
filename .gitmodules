@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FRASER"]
+	path = FRASER
+	url = https://github.com/gagneurlab/fraser
+	shallow = true
+	registered = true
 [submodule "OUTRIDER"]
 	path = OUTRIDER
 	url = https://github.com/gagneurlab/outrider
